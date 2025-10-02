@@ -2,9 +2,9 @@
 
 ### Контакты
 
-Стукачёв Павел 
-Email: Pavel91104@mail.ru
-Telegram: @htodino
+* Стукачёв Павел 
+* Email: Pavel91104@mail.ru
+* Telegram: @htodino
 
 ---
 
